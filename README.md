@@ -1,4 +1,5 @@
-#**House Price Prediction Model**
+# **House Price Prediction Model**
+
 This repository contains a machine learning model for predicting house prices based on various features such as square footage, number of bedrooms, location, and more. The model is built using Python and popular machine learning libraries like scikit-learn, pandas, and numpy.
 
 The goal of this project is to predict house prices using a dataset containing various features of houses. The model is trained using a regression algorithm, and the performance is evaluated using metrics such as Mean Squared Error (MSE) and R-squared.
